@@ -1,0 +1,143 @@
+body{
+    margin:0;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Header sectiion starts here */
+section{
+    height: 700px;
+    /* margin-bottom: 80px; */
+}
+.header-section h5{
+    font-size: 20px;
+    font-weight: 400;
+}
+.jack{
+    color: hotpink;
+    font-weight: 600;
+    font-size: 30px;
+}
+p{
+    font-size: 14px;
+    margin-bottom: 30px;
+}
+.anchor-btn{
+    text-decoration: none;
+    background-color: hotpink;
+    border-radius: 5px;
+    padding: 12px 36px;
+    margin-left: 10px ;
+    color: #fff;
+    text-transform: uppercase;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    padding-left: 2%;
+    margin-left: 4%;
+}
+.half-width img{
+    width: 90%;
+    margin-top: 40px;
+}
+.header-section{
+    background-image: url('https://i.imgur.com/zcN4RVQ.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/* Header section ends here */
+/* Biography section starts */
+.biography-section{
+    background-image: url('https://i.imgur.com/UJYKMDX.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.biography-section h5{
+    font-size: 20px;
+    font-weight: 400;
+}
+#bio{
+    margin-top: 100px;
+}
+/* Biography section ends */
+/* Latest Works Section starts */
+.one-third{
+    width: 30%;
+    float: left;
+    padding-left: 1%;
+    margin-left: 2%;
+    /* position: relative; */
+    
+}
+#my{
+    text-align: center;
+    margin-bottom: 100px;
+}
+.one-third img{
+    width: 100%;
+}
+.latest-section div{
+    box-shadow: 5px 5px 25px rgba(128,128,128,0.6);
+    height: auto;
+}
+.latest-section div:hover{
+    box-shadow: 5px 5px 40px gray;
+}
+.latest-section{
+    background-image: url('https://i.imgur.com/Pn6WRxr.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 70px;
+    padding-right: 80px;
+    padding-left: 80px;
+   
+}
+/* LatFooter section startsest Works Section ends */
+/*Footer section starts*/
+h3{
+    text-align: center;
+    font-size: 22px;
+    font-weight: 500;
+    margin-bottom: 50px;
+}
+blockquote{
+    text-align: center;
+    margin-bottom: 80px;
+    width: 400px;
+    padding-right: 25%;
+    padding-left: 30%;
+}
+.anchor{
+    text-decoration: none;
+    background-color: hotpink;
+    border-radius: 5px;
+    padding: 40px 65px;
+    margin: 0 auto;
+    color: #fff;
+    text-align: center;
+    width: 500px;
+}
+.name{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 15px;
+}
+.footer p{
+    text-align: center;   
+}
+.footer{
+    position: relative;
+    background-image: url('https://i.imgur.com/4Gfwd0R.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#code{
+    color: yellow;
+    background-color: teal;
+    margin-top: 6%;
+}
+
+
+
+
